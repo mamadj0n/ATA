@@ -38,7 +38,7 @@ ollama pull qwen2.5-coder:1.5b
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/ATA.git
+git clone https://github.com/mamadj0n/ATA.git
 cd ATA
 
 ```
@@ -83,8 +83,8 @@ What to do? (y/N/e):
 
 ```
 
-* **`y` (Yes):** Executes the command directly in your shell.
-* **`n` (No / Default):** Cancels the execution safely.
+* **`y` (Yes / Default):** Executes the command directly in your shell.
+* **`n` (No):** Cancels the execution safely.
 * **`e` (Edit):** Load the generated command into the interactive prompt to tweak arguments before execution.
 
 ---
