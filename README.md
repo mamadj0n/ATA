@@ -1,5 +1,10 @@
 # ATA (AI Terminal Assistant)
 
+> [!NOTE]
+> **Persian Documentation **
+> 
+> برای مطالعه راهنمای فارسی این پروژه، فایل [README_FA.md](./README_FA.md) را مشاهده کنید.
+
 **ATA** is a lightweight, zero-dependency local CLI tool that converts natural language commands into executable Linux terminal operations using local Large Language Models (LLMs) via Ollama.
 
 It acts as a bridge between your shell and local AI, eliminating the need to memorize complex bash syntax—while keeping your terminal secure and completely offline.
